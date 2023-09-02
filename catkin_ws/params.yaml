@@ -1,0 +1,15 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_aditi_inspiron_14_5408__38081: http://aditi-Inspiron-14-5408:38081/
+rosversion: '1.16.0
+
+  '
+run_id: a3feeb0e-47e5-11ee-8bf7-b779bda1a244
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
+  backgrounf_r: 200
