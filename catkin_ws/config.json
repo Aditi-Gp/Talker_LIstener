@@ -1,0 +1,23 @@
+[
+  {
+    "sku": "PROD-001",
+    "name": "Wireless Ergonomic Mouse",
+    "price": 49.99,
+    "inStock": true,
+    "categories": ["Electronics", "Accessories"]
+  },
+  {
+    "sku": "PROD-002",
+    "name": "Mechanical Keyboard",
+    "price": 119.99,
+    "inStock": false,
+    "categories": ["Electronics", "Peripherals"]
+  },
+  {
+    "sku": "PROD-003",
+    "name": "USB-C Hub Multiport",
+    "price": 29.50,
+    "inStock": true,
+    "categories": ["Accessories"]
+  }
+]
